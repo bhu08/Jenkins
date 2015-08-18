@@ -1,0 +1,9 @@
+Started on Aug 18, 2015 11:35:46 AM
+Using strategy: Default
+[poll] Last Built Revision: Revision 19a3fc43387b5e23004dc004ae4ae13f9e2e4755 (refs/remotes/origin/master)
+ > git --version # timeout=10
+ > git -c core.askpass=true ls-remote -h git@github.com:bhu08/Jenkins.git # timeout=10
+Found 1 remote heads on git@github.com:bhu08/Jenkins.git
+[poll] Latest remote head revision on refs/heads/master is: 68a9d54f0c3c3bc17563d90b7f955f4eab4e621e
+Done. Took 1.2 sec
+Changes found

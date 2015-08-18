@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2015-08-18 11:12:30.620 UTC</timestamp>
+  <md5sum>b8a34113a3a1ce29c8c60d7141f5a704</md5sum>
+  <fileName>javax.servlet.jsp:jsp-api-2.1.jar</fileName>
+  <usages>
+    <entry>
+      <string>Jenkins Test/com.celestial:SimpleMavenWebapp</string>
+      <ranges>1-2</ranges>
+    </entry>
+    <entry>
+      <string>Jenkins Test</string>
+      <ranges>1-2</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>
